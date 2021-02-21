@@ -1,5 +1,9 @@
 # Joshua Serrano SNHU Portfolio
 
+## Self Assessment 
+
+[PDF](https://drive.google.com/file/d/1kinurvEav0qyLiUWhnxu4mCz3RPv3TY2/view?usp=sharing)
+
 
 ## Code Review
 
